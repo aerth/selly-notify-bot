@@ -1,0 +1,49 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "unAlaEz+/sfP9oQ+QrThFchfPKI=",
+			"path": "github.com/aerth/go-selly",
+			"revision": "8a62544256e8b358979fdfa29f665b9c9b602403",
+			"revisionTime": "2018-02-12T10:54:25Z"
+		},
+		{
+			"checksumSHA1": "6+sywuQeV+Dvo0iB258po7ztg4I=",
+			"path": "github.com/aerth/tgun",
+			"revision": "e7f5fb06edc01a24f4a486ef87a99a7d1a71dc6d",
+			"revisionTime": "2018-02-12T02:24:53Z"
+		},
+		{
+			"checksumSHA1": "eOXF2PEvYLMeD8DSzLZJWbjYzco=",
+			"path": "github.com/kr/pretty",
+			"revision": "cfb55aafdaf3ec08f0db22699ab822c50091b1c4",
+			"revisionTime": "2016-08-23T17:07:15Z"
+		},
+		{
+			"checksumSHA1": "uulQHQ7IsRKqDudBC8Go9J0gtAc=",
+			"path": "github.com/kr/text",
+			"revision": "7cafcd837844e784b526369c9bce262804aebc60",
+			"revisionTime": "2016-05-04T02:26:26Z"
+		},
+		{
+			"checksumSHA1": "t8jzPFIv4DNACv+cuZoigNmjPLQ=",
+			"path": "github.com/technoweenie/multipartstreamer",
+			"revision": "a90a01d73ae432e2611d178c18367fbaa13e0154",
+			"revisionTime": "2013-10-20T00:18:33Z"
+		},
+		{
+			"checksumSHA1": "r9l4r3H6FOLQ0c2JaoXpopFjpnw=",
+			"path": "golang.org/x/net/proxy",
+			"revision": "f5dfe339be1d06f81b22525fe34671ee7d2c8904",
+			"revisionTime": "2018-02-04T03:50:36Z"
+		},
+		{
+			"checksumSHA1": "JaRjqSc0lOpA0V7avHWBex1IY+w=",
+			"path": "gopkg.in/telegram-bot-api.v4",
+			"revision": "2022d04b94f50056a09962b1ac81cdd821d20a55",
+			"revisionTime": "2017-11-09T18:51:50Z"
+		}
+	],
+	"rootPath": "github.com/aerth/selly-notify-bot"
+}
