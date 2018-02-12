@@ -134,7 +134,7 @@ func (b *Bot) LaunchTelegramBot() {
 			}
 		}
 	}
-	b.Say("Hi guys: %s", b.tgchatid)
+	b.Say("Hi guys: %v", b.tgchatid)
 }
 
 func (b *Bot) Serve(addr string) error {
