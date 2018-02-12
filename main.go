@@ -112,7 +112,7 @@ func (b *Bot) LaunchTelegramBot() {
 			b.tgchatid = chat.ID
 		}
 	}
-	if b.tgchatid != 0 {
+	if b.tgchatid == 0 {
 		u := tgbotapi.NewUpdate(0)
 		u.Timeout = 60
 		updates, err := b.tgbot.GetUpdatesChan(u)
